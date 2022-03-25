@@ -22,6 +22,7 @@ phases:
 # Include only the files required for your application to run.
 artifacts:
   files:
+    - appspec.yaml
     - src/index.js
     - src/app.js
     - package.json
